@@ -64,7 +64,7 @@ body {
   overflow: hidden;
   transition: transform 0.3s ease-in-out;
   background: #fff; /* White background for cards */
-  margin-left: 27px;
+  margin-left: 67px;
 }
 
 .product-card:hover {
